@@ -2,7 +2,12 @@
 
 ## Description
 
-this is a new project for our first demo in the course
+this is a new project for our first demo in the course to demonstrate:
+
+- setting up a project
+- initializing a project
+- preforming version control (Git) tasks
+- making chances to files.
 
 ## Author
 
